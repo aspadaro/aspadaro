@@ -7,7 +7,7 @@
 I build production software in the C#/.NET ecosystem and apply machine learning to computational biology research.
 
 [![GitHub](https://img.shields.io/badge/GitHub-aspadaro-181717?style=for-the-badge&logo=github)](https://github.com/aspadaro)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Austin_Spadaro-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22Austin+Spadaro%22)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Austin_Spadaro-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=wJN6DiYAAAAJ)
 [![.NET](https://img.shields.io/badge/.NET-C%23_Engineering-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Bioinformatics](https://img.shields.io/badge/Research-Bioinformatics-2E7D32?style=for-the-badge)](https://github.com/aspadaro?tab=repositories)
@@ -64,7 +64,7 @@ Across both domains, I care about software that is correct, understandable, and 
       <p><strong>Focus:</strong> structural biology, visualization, CLI tools</p>
     </td>
     <td width="50%">
-      <h3><a href="https://scholar.google.com/scholar?q=%22Austin+Spadaro%22">Research Publications</a></h3>
+      <h3><a href="https://scholar.google.com/citations?hl=en&user=wJN6DiYAAAAJ">Research Publications</a></h3>
       <p>Computational biology research spanning machine learning, molecular profiling, protein bioinformatics, and predictive modeling.</p>
       <p><strong>Focus:</strong> ML, bioinformatics, reproducible research</p>
     </td>
@@ -112,3 +112,4 @@ Across both domains, I care about software that is correct, understandable, and 
 **Senior software engineer, PhD candidate, and builder of reliable systems for complex domains.**
 
 </div>
+
