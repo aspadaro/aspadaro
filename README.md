@@ -2,13 +2,15 @@
 
 # Austin Spadaro
 
-### Computational Biology | Bioinformatics | Research Software Engineering
+### Senior Software Engineer | PhD Candidate | Computational Biology
 
-I build practical, reproducible software for biological data analysis, with a focus on genomics, single-cell analysis, molecular profiling, and interpretable scientific workflows.
+I build production software in the C#/.NET ecosystem and apply machine learning to computational biology research.
 
 [![GitHub](https://img.shields.io/badge/GitHub-aspadaro-181717?style=for-the-badge&logo=github)](https://github.com/aspadaro)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Austin_Spadaro-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/scholar?q=%22Austin+Spadaro%22)
+[![.NET](https://img.shields.io/badge/.NET-C%23_Engineering-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-Scientific_Computing-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bioinformatics](https://img.shields.io/badge/Focus-Bioinformatics-2E7D32?style=for-the-badge)](https://github.com/aspadaro?tab=repositories)
+[![Bioinformatics](https://img.shields.io/badge/Research-Bioinformatics-2E7D32?style=for-the-badge)](https://github.com/aspadaro?tab=repositories)
 
 </div>
 
@@ -18,17 +20,27 @@ I build practical, reproducible software for biological data analysis, with a fo
 
 ## About
 
-I am interested in the space where biology, statistics, and software engineering meet: turning raw experimental data into analyses that are clear, defensible, and reusable. My work spans next-generation sequencing quality control, single-cell cancer biology, protein structure visualization, and tools for working with large molecular-profile datasets.
+I am a senior software engineer working in the corrections industry and a PhD candidate in computational biology. Professionally, I build reliable enterprise systems with the C#/.NET stack, where maintainability, security, auditability, and operational clarity matter every day.
 
-I care about code that is not only correct, but usable by the next person who has to trust it.
+My research work sits at the intersection of machine learning, bioinformatics, and molecular biology. I am interested in turning complex biological data into reproducible analyses and useful predictive tools, especially for genomics, single-cell analysis, drug response, and molecular profiling.
+
+Across both domains, I care about software that is correct, understandable, and built for people who have to trust it under real constraints.
 
 ## What I Work On
 
-- **Computational biology workflows** for sequencing, transcriptomic, and molecular-profile data.
-- **Single-cell and cancer biology analysis**, including melanoma-focused exploratory pipelines.
-- **Scientific Python tooling** for data cleaning, quality control, visualization, and analysis.
-- **Reproducible research software** with clear structure, readable outputs, and practical documentation.
-- **Molecular and structural biology utilities** that make complex biological data easier to inspect.
+- **Enterprise software engineering** with C#, .NET, SQL, APIs, service integrations, and production support.
+- **Corrections-domain systems** where security, traceability, reliability, and workflow clarity are central.
+- **Computational biology research** involving sequencing, transcriptomic, molecular-profile, and drug-response data.
+- **Machine learning for biology**, including predictive models, feature engineering, and reproducible evaluation.
+- **Research software tooling** for quality control, visualization, data processing, and scientific documentation.
+
+## Engineering Strengths
+
+- Designing maintainable C#/.NET applications with clear domain boundaries.
+- Building APIs, data access layers, background services, and operational tooling.
+- Working across SQL-backed systems, integrations, reporting needs, and production workflows.
+- Translating ambiguous business or research requirements into durable software.
+- Balancing correctness, performance, security, and long-term maintainability.
 
 ## Selected Public Work
 
@@ -52,15 +64,20 @@ I care about code that is not only correct, but usable by the next person who ha
       <p><strong>Focus:</strong> structural biology, visualization, CLI tools</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/aspadaro/cmapPy">cmapPy</a></h3>
-      <p>Work with Connectivity Map data formats and tools for large-scale perturbational molecular-profile analysis.</p>
-      <p><strong>Focus:</strong> Connectivity Map, GCT/GCTX, perturbational profiling</p>
+      <h3><a href="https://scholar.google.com/scholar?q=%22Austin+Spadaro%22">Research Publications</a></h3>
+      <p>Computational biology research spanning machine learning, molecular profiling, protein bioinformatics, and predictive modeling.</p>
+      <p><strong>Focus:</strong> ML, bioinformatics, reproducible research</p>
     </td>
   </tr>
 </table>
 
 ## Technical Toolkit
 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -70,13 +87,13 @@ I care about code that is not only correct, but usable by the next person who ha
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Research Engineering Principles
+## Engineering And Research Principles
 
-- Start with the biological question, then choose the computation.
-- Make assumptions visible and outputs easy to audit.
-- Prefer simple, composable pipelines over fragile one-off scripts.
-- Treat documentation, version control, and reproducibility as part of the science.
-- Build tools that help collaborators move faster without hiding important details.
+- Build systems that are understandable under pressure.
+- Make assumptions visible, testable, and easy to audit.
+- Prefer clear domain models and composable workflows over clever complexity.
+- Treat documentation, version control, and reproducibility as part of the work.
+- Bring software engineering discipline into research, and research-level rigor into software.
 
 ## GitHub Snapshot
 
@@ -92,6 +109,6 @@ I care about code that is not only correct, but usable by the next person who ha
 
 <div align="center">
 
-**Open to thoughtful collaborations in computational biology, bioinformatics, and research software.**
+**Senior software engineer, PhD candidate, and builder of reliable systems for complex domains.**
 
 </div>
